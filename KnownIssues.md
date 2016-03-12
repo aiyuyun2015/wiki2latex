@@ -1,0 +1,1 @@
+  * Mediawiki markup _must_ be correct. While Mediawiki containes some error correcting measures, Wiki2LaTeX does not. Sometimes weird behaviour of W2L can be explained by this fact.
